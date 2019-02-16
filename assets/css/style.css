@@ -205,9 +205,6 @@ body {
   }
   
   @media screen and (max-width: 980px){
-    .sidebar{
-      width: 100%;
-    }
     .main-section{
       width:100%;
     }
@@ -219,9 +216,6 @@ body {
     }
   }
   @media screen and (max-width: 768px){
-    .sidebar{
-      width: 100%;
-    }
     .main-section{
       width:100%;
     }
@@ -238,10 +232,6 @@ body {
     }  
   }
   @media screen and (max-width: 640px){
-    .sidebar{
-      width: 100%;
-      float: none;
-    }
     .main-section{
       width:100%;
       
